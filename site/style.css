@@ -1,0 +1,10 @@
+body{
+    color:black !important;
+    background-color:royalblue;
+    width: 600px;
+    height:600px;
+    margin: auto;
+}
+p{
+    color: blueviolet;
+}
