@@ -1,0 +1,35 @@
+div{
+    background-color: cyan;
+    position: relative;
+    margin-top: 40px;
+}
+P{
+    width: 50px;
+    height:50px;
+    border:1px solid black;
+    
+    margin-right: 10px;
+}
+#p1{
+    background-color: red;
+    float: right;
+    
+}
+#p2{
+    background-color: darkgreen;
+    
+}
+#p3{
+    background-color: darkkhaki;
+    position: relative;
+    top:0;
+    left:0;
+    
+}
+#p4{
+    background-color: darkmagenta;
+}
+section{
+    clear: left;
+    
+}

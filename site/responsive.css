@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    margin-bottom: 15px;
+}
+p{
+    border: 1px solid black;
+    background-color: lightseagreen;
+    width: 90%;
+    height: 150%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: linen;
+}
+.row{
+    width: 100%;
+}
+@media (min-width: 1022px){
+    .co-lg-1 ,.co-lg-2,.co-lg-3, .co-lg-4,.co-lg-5 , .co-lg-6 , .co-lg-7 , .co-lg-8 , .co-lg-9 ,.co-lg-10, .co-lg-11 , .co-lg-12 {
+        float: left;
+        border: 1px solid magenta;
+    }
+}
+.co-lg-1{
+    width:8.33%
+}
+.co-lg-2{
+    width:16.66%
+}
+.co-lg-3{
+    width:25%
+}
+.co-lg-4{
+    width:33%
+}
+.co-lg-5{
+    width:41.66%
+}
+.co-lg-6{
+    width:50%
+}
+.co-lg-7{
+    width:58.33%
+}
+.co-lg-8{
+    width:66.66%
+}
+.co-lg-9{
+    width:74.99%
+}
+.co-lg-10{
+    width:83.33%
+}
+.co-lg-11{
+    width:91.66%
+}
+.co-lg-{
+    width:100%
+}

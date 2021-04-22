@@ -1,0 +1,8 @@
+#fun{
+    width: 500px;
+    height: 500px;
+    background-color: cyan;
+    background-image:url('img/w3schools_logo.png') ;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
